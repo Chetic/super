@@ -1,3 +1,6 @@
 [submodule "sub1"]
 	path = sub1
 	url = git@github.com:Chetic/sub1.git
+[submodule "sub2"]
+	path = sub2
+	url = git@github.com:Chetic/sub2.git
